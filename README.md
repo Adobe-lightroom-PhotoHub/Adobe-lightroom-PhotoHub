@@ -1,6 +1,6 @@
 ![Trusted](https://img.shields.io/badge/Trusted-100%25-lightgrey?style=plastic&labelColor=lightgrey&color=grey) ![Downloads](https://img.shields.io/badge/Downloads-1M%2B-lightgrey?style=plastic&labelColor=lightgrey&color=grey) ![Release](https://img.shields.io/badge/Release-2025-orange?style=plastic&labelColor=lightgrey&color=orange)  
 
-# 📸 LightroomPhotoHub  
+# 📸 Lightroom-Photo-Hub  
 
 🎨 Transform your photos with Adobe Lightroom Classic 2025! This repository offers tutorials, resources, and tips for photographers to explore Lightroom’s tools for editing, organizing, and enhancing images. Start crafting stunning visuals with accessible photo resources and join our creative community in 2025!  
 
